@@ -1,0 +1,24 @@
+{
+  "name": "andytynguyen",
+  "version": "1.0.0",
+  "description": "Dimension by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andyt-Nguyen/portfolio.git"
+  },
+  "author": "Andy Ty Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andyt-Nguyen/portfolio/issues"
+  },
+  "homepage": "https://github.com/Andyt-Nguyen/portfolio#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
